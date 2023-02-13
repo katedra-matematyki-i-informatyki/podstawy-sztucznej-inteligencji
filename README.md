@@ -1,1 +1,1 @@
-# podstawy-sztucznej-inteligencji
+# Alborytmy z laboratorium Podstawy Sztucznej Inteligencji
